@@ -1,4 +1,5 @@
-# 3DHumans: High-Fidelity 3D Scans of People in Diverse Clothing Styles
+# 3DHumans
+## High-Fidelity 3D Scans of People in Diverse Clothing Styles
 This repo contains post-processing scripts for 3DHumans Dataset.
 
 Request the 3DHumans dataset from this [link](https://cvit.iiit.ac.in/research/projects/cvit-projects/3dhumans). Upon recieving the download link, download the dataset, unzip and put all the files inside "/path/to/3DHumans" directory
