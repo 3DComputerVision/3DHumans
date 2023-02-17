@@ -10,4 +10,4 @@ Install 'smplx' via pip.<br/>
 ``` pip install smplx[all] ```
 <br/>
 <br/>
-Modiy the line 
+Replace the paths mentioned the lines 26 \& 27 with "/path/to/3DHumans" \& "/path/to/models", respectively.
