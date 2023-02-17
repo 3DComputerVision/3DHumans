@@ -10,4 +10,4 @@ Install 'smplx' via pip.<br/>
 ``` pip install smplx[all] ```
 <br/>
 <br/>
-Replace the paths mentioned the lines 26 \& 27 with "/path/to/3DHumans" \& "/path/to/models", respectively.
+Replace the paths mentioned in [pkl_to_mesh_3DHumans.py](https://github.com/3DComputerVision/3DHumans/blob/main/pkl_to_mesh_3DHumans.py) (lines 26 \& 27) with "/path/to/3DHumans" \& "/path/to/models", respectively.
