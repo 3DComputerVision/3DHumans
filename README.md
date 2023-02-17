@@ -5,4 +5,6 @@ Request the 3DHumans dataset from this [link](https://cvit.iiit.ac.in/research/p
 
 ## Generating registered SMPL meshes
 Download the SMPL models from [here](https://smpl.is.tue.mpg.de/index.html), and place the files inside "/path/to/models/" directory.
+Install 'smplx' via pip.
+``` pip install smplx[all] ```
 
